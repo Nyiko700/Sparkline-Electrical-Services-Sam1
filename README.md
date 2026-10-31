@@ -134,5 +134,26 @@ Security: HTTPS comes from the hosting platform; _headers adds X-Content-Type-Op
 
 Keyboard-operable accordion, lightbox (focus trap, Esc, arrow keys, focus restored), and map buttons; aria-pressed on filter buttons; aria-live regions for result counts and form responses; aria-current="page" in the navigation; and prefers-reduced-motion honoured by every animation.
 
+## References
+
+Google, 2026. SEO Starter Guide. Google Search Central. [online] Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide [Accessed 29 October 2026].
+Leaflet, 2026. Leaflet Quick Start Guide. [online] Available at: https://leafletjs.com/examples/quick-start/ [Accessed 29 October 2026].
+Leaflet, 2026. Download Leaflet. [online] Available at: https://leafletjs.com/download [Accessed 29 October 2026].
+Mozilla Developer Network (MDN), 2026. Intersection Observer API. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API [Accessed 29 October 2026].
+Mozilla Developer Network (MDN), 2026. Geolocation API. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API [Accessed 29 October 2026].
+Mozilla Developer Network (MDN), 2026. Web Share API. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API [Accessed 29 October 2026].
+OpenStreetMap, 2026. Copyright and licence. [online] Available at: https://www.openstreetmap.org/copyright [Accessed 29 October 2026].
+Schema.org, 2026. Electrician. [online] Available at: https://schema.org/Electrician [Accessed 29 October 2026].
+Sitemaps.org, 2026. Sitemaps XML format. [online] Available at: https://www.sitemaps.org/protocol.html [Accessed 29 October 2026].
+W3C Web Accessibility Initiative, 2026. Accordion pattern and Dialog (modal) pattern. ARIA Authoring Practices Guide. [online] Available at: https://www.w3.org/WAI/ARIA/apg/patterns/accordion/ and https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/ [Accessed 29 October 2026].
+Netlify, 2026. Forms setup. Netlify Docs. [online] Available at: https://docs.netlify.com/forms/setup/ [Accessed 29 October 2026].
+Afrihost, 2026. Web hosting plans. [online] Available at: <www.afrihost.com> [Accessed 10 August 2026].
+Flaticon, 2026. Free icons. [online] Available at: <www.flaticon.com> [Accessed 10 August 2026].
+Unsplash, 2026. Free high-resolution photos. [online] Available at: <www.unsplash.com> [Accessed 10 August 2026].
+Mozilla Developer Network (MDN), 2026. HTML: HyperText Markup Language. [online] Available at: <developer.mozilla.org/en-US/docs/Web/HTML> [Accessed 10 August 2026].
+Mozilla Developer Network (MDN), 2026. CSS Grid Layout. [online] Available at: <developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout> [Accessed 14 August 2026].
+Mozilla Developer Network (MDN), 2026. Responsive images. [online] Available at: <developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images> [Accessed 14 August 2026].
+Google Fonts, 2026. Oswald, Inter & IBM Plex Mono. [online] Available at: <fonts.google.com> [Accessed 14 August 2026].
+CSS-Tricks, 2026. A Complete Guide to CSS Grid. [online] Available at: <css-tricks.com/snippets/css/complete-guide-grid> [Accessed 14 August 2026].
 
 
