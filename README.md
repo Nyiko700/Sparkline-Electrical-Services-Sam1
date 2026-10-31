@@ -100,14 +100,19 @@ Important honesty note about AJAX: a static website has no server of its own, so
 3.1 On-page SEO
 
 Item	What was done
+
 Keyword research	Keywords were chosen from the services offered and the way a local customer would phrase a search, then used naturally in titles, headings and body text: electrician Cape Town, residential wiring, commercial electrical installations, fault finding, certificate of compliance (CoC), electrician Bellville / Claremont. No keyword tool was used, so the list should be validated with Google Search Console / Keyword Planner after launch.
+
 Title tags & meta descriptions	Unique title (51–55 characters) and meta description (140–160 characters) on every page.
 Header tags	One <h1> per page (business name in the header), <h2> for sections, <h3> for sub-sections; no skipped levels.
 Image optimisation	Descriptive file names (e.g. project-full-house-rewire-480.jpg), descriptive alt text, explicit width/height to stop layout shift, loading="lazy" below the fold, and fetchpriority="high" on the hero image.
 URL structure	Short, lowercase, descriptive page names (services.html, enquiry.html) and <link rel="canonical"> on every page.
+
 Internal linking	Homepage service tags link to the matching service cards; contextual links between Home, About, Services, Enquiry and Contact; FAQ answers link to the quote form and map.
+
 Mobile-friendliness	viewport meta tag, responsive layout, large touch targets, tested at 390px width.
 Structured data	JSON-LD (schema.org Electrician) on the homepage with address, phone, hours and service area, for local rich results.
+
 Social sharing	Open Graph and Twitter card tags, plus a Share this page button (Web Share API, falling back to copy-link).
 meta keywords	Included for completeness, but Google has stated it ignores this tag; the real keyword work is in the visible content above.
 
