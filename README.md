@@ -5,7 +5,7 @@
 
 ## Live Site and Repository
 Live website: https://nyiko700.github.io/Sparkline-Electrical-Services-Sam1/
-GitHub repository: 
+GitHub repository: https://github.com/Nyiko700/Sparkline-Electrical-Services-Sam1.git
 
 ## Project Overview
 
