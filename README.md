@@ -3,10 +3,6 @@
 ## Student Number: ST10506659
 ## Module: WEDE5020 - Web Development
 
-## Live Site and Repository
-Live website: https://nyiko700.github.io/Sparkline-Electrical-Services-Sam1/
-GitHub repository: https://github.com/Nyiko700/Sparkline-Electrical-Services-Sam1.git
-
 ## Project Overview
 
 This repository contains the code for a fictional small business website built for Sparkline Electrical Services, a Cape Town-based electrical contracting business. The project is developed in three parts across the module:
